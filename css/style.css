@@ -44,6 +44,7 @@ li {
 
 footer {
 	background-color: purple;
-	text-align: center;
 	padding: 10px;
+	display: flex;
+	justify-content: space-around;
 }
