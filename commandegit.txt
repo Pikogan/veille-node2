@@ -1,0 +1,3 @@
+git remote add origin https://github.com/Pikogan/veille-node-ex1.git
+git push -u origin master
+
