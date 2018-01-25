@@ -6,6 +6,7 @@ header {
 	background-color: red;
 	text-align: center;
 	padding: 25px;
+	font-family: "Comic Sans MS", cursive, sans-serif;
 }
 
 nav {
@@ -47,4 +48,5 @@ footer {
 	padding: 10px;
 	display: flex;
 	justify-content: space-around;
+	font-family: "Comic Sans MS", cursive, sans-serif;
 }
