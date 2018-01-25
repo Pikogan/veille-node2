@@ -29,6 +29,7 @@ li {
 	margin: auto;
 	text-align: center;
 	font-size: 2em;
+	border: 5px lightgrey dashed;
 }
 
 #sectionDiv {
