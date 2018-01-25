@@ -10,8 +10,12 @@ nav {
 	background-color: green;
 }
 
-div {
+#premierDiv {
 	background-color: yellow;
+}
+
+#deuxiemeDiv {
+	background-color: orange;
 }
 
 footer {
