@@ -29,7 +29,7 @@ li {
 
 #sectionDiv {
 	display: flex;
-	/*flex-flow: column wrap;*/
+	flex-direction: row;
 }
 
 #premierDiv {
