@@ -1,3 +1,4 @@
-git remote add origin https://github.com/Pikogan/veille-node-ex1.git
+git remote add origin https://github.com/Pikogan/veille-node.git
 git push -u origin master
 
+git add . // indexer l'ensemble des fichiers modifiés
