@@ -43,6 +43,7 @@ li {
 #deuxiemeDiv {
 	background-color: orange;
 	padding: 5px;
+	border: 5px white solid;
 }
 
 footer {
