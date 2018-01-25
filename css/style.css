@@ -8,6 +8,15 @@ header {
 
 nav {
 	background-color: green;
+	display: flex;
+	padding: 100px;
+}
+
+li {
+	background-color: lightgreen;
+	width: 100px;
+	padding: 50px;
+	margin: auto;
 }
 
 #premierDiv {
