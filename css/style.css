@@ -26,6 +26,10 @@ li {
 	text-align: center;
 }
 
+#sectionDiv {
+	display: flex;
+}
+
 #premierDiv {
 	background-color: yellow;
 }
