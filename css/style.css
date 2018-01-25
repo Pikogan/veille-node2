@@ -8,12 +8,12 @@ header {
 
 nav {
 	background-color: green;
-	display: flex;
-	padding: 100px;
+	padding: 25px;
 }
 
 ul {
 	list-style-type: none;
+	display: flex;
 }
 
 li {
@@ -21,6 +21,7 @@ li {
 	width: 100px;
 	padding: 50px;
 	margin: auto;
+	text-align: center;
 }
 
 #premierDiv {
