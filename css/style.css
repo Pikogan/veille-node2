@@ -54,4 +54,5 @@ footer {
 	justify-content: space-around;
 	font-family: "Comic Sans MS", cursive, sans-serif;
 	color: white;
+	border: 5px red groove;
 }
