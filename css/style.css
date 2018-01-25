@@ -16,6 +16,7 @@ nav {
 ul {
 	list-style-type: none;
 	display: flex;
+	flex-flow: row wrap;
 }
 
 li {
@@ -28,16 +29,21 @@ li {
 
 #sectionDiv {
 	display: flex;
+	/*flex-flow: column wrap;*/
 }
 
 #premierDiv {
 	background-color: yellow;
+	padding: 5px;
 }
 
 #deuxiemeDiv {
 	background-color: orange;
+	padding: 5px;
 }
 
 footer {
 	background-color: purple;
+	text-align: center;
+	padding: 10px;
 }
